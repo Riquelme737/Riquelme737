@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:7riquelmesantos2006@gmail.com)
 # Sobre mim
 Sou um entusiasta do mundo da tecnologia, desde de os hardwares ate os softwares. Busco sempre aprender mais, quero me especializar em BackEnd.
-Atualmente estudadante de Análise e Desenvolvimento de Sistemas, apredendo **Java** e **Linux**.
+Atualmente estudadante de Análise e Desenvolvimento de Sistemas, aprendendo **Java** e **Linux**.
 
 Estou a procura de um **estágio** na área para mostrar e desenvolver minhas habilidades em conjunto com a equipe de uma empresa.
 
